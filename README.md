@@ -1,4 +1,4 @@
-Code for the paper **Expectation consistency for calibration of neural networks**. 
+Code for the paper [**Expectation consistency for calibration of neural networks**](https://arxiv.org/pdf/2303.02644.pdf) 
 
 * File `main.py` is used to train models for datasets SVHN and CIFAR10
 
